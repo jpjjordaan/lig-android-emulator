@@ -1,0 +1,1 @@
+this is a android emulator for most android developers to test there apps without using all your time transfer files from computer to android device this can be used for non coding usage too all made by orlando XD
